@@ -10,8 +10,8 @@ Access bug reports in Jira to report and track issues identified during testing.
 Testing Mind Map:
 Use the mind map as a visual guide to organize and plan Urban Scooter tests.
 
-Planilha de Testes:
-Encontre uma planilha abrangente que inclui testes de interface, funcionalidade e API. Garantindo uma cobertura completa nos seus testes.
+Test Spreadsheet:
+Find a comprehensive spreadsheet that includes interface, functionality, and API testing. Ensuring complete coverage in your tests.
 
 API tests .json:
 Explore API tests in JSON format. They are essential to validate the integration and functionalities of the Urban Scooter API.
